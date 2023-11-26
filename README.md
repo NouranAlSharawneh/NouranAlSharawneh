@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”./README_Banner.png" alt=”my banner”>
+<img width="1834" alt="README_Banner" src="https://github.com/NouranAlSharawneh/NouranAlSharawneh/assets/93155186/d8e506b2-b929-4ed2-a28a-0e69e739e23e">
 
 </p>
 <h1 align="center">Hi 👋, I'm Nouran Al Sharanwneh</h1>
