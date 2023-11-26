@@ -5,13 +5,12 @@
 </p>
 <h1 align="center">Hi 👋, I'm Nouran Al Sharanwneh</h1>
 <h3 align="center">A Passionate Senior Software Engineering Student Eager to Innovate and Solve Complex Challenges</h3>
-<img align="right" alt="coder" width="400" src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouranalsharawneh&label=Profile%20views&color=0e75b6&style=flat" alt="nouranalsharawneh" /> </p>
 
 - 🔭 I’m currently working on **a 3D site for my portfolio**
 
-- 🌱 I’m currently learning **Flutter, and improving my skills with React.js, Next.js and Three.js.**
+- 🌱 I’m currently learning **Flutter, and improving my skills with React.js, Next.js, and Three.js.**
 
 - 💬 Ask me about **MERN**
 
