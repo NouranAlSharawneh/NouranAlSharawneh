@@ -4,7 +4,7 @@
 
 </p>
 <h1 align="center">Hi 👋, I'm Nouran Al Sharanwneh</h1>
-<h3 align="center">A Passionate Senior Software Engineering Student Eager to Innovate and Solve Complex Challenges</h3>
+<h3 align="center">A Passionate Software Engineer Eager to Innovate and Solve Complex Challenges</h3>
 
 - 🔭 I’m currently working on **a 3D site for my portfolio**
 
