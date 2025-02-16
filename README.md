@@ -6,10 +6,6 @@
 <h1 align="center">Hi 👋, I'm Nouran Al Sharanwneh</h1>
 <h3 align="center">A Passionate Software Engineer Eager to Innovate and Solve Complex Challenges</h3>
 
-- 🔭 I’m currently working on **a 3D site for my portfolio**
-
-- 🌱 I’m currently learning **Flutter, and improving my skills with React.js, Next.js, and Three.js.**
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **nouran-al-sharawneh@hotmail.com**
