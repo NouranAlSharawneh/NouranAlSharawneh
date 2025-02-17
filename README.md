@@ -26,14 +26,6 @@ With a strong foundation in languages like Java, Python, and JavaScript, as well
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-> [!NOTE]  
-> Feel free to reach out if you'd like to collaborate or have a project you'd like me to work on.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nouran-alsharawneh-1b5a7824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouran alsharawneh" height="30" width="40" /></a>
-</p>
-
 
 # Skills
 
@@ -47,6 +39,14 @@ With a strong foundation in languages like Java, Python, and JavaScript, as well
 | Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
 | Design Tools    |  <img src="https://img.shields.io/badge/Blender-FF9A00?style=for-the-badge&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-E10098?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+> [!NOTE]  
+> Feel free to reach out if you'd like to collaborate or have a project you'd like me to work on.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nouran-alsharawneh-1b5a7824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouran alsharawneh" height="30" width="40" /></a>
+</p>
 
  <div style="display: flex; align-items: stretch; gap: 40px;">
     <a>
