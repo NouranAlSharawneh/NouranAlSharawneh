@@ -51,9 +51,7 @@ With a strong foundation in languages like Java, Python, and JavaScript, as well
 
 
   <div>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=NouranAlSharawneh&theme=tokyonight-duo&hide_border=true alt="GitHub Streak" style="margin-top: 20px;"/>
-    </a>   
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NouranAlSharawneh&theme=tokyonight-duo" alt="GitHub Streak" /></a>
   </div>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nouranalsharawneh&show_icons=true&locale=en&layout=compact" alt="nouranalsharawneh" />
 
