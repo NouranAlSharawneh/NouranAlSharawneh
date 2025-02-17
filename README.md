@@ -49,5 +49,7 @@ With a strong foundation in languages like Java, Python, and JavaScript, as well
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nouranalsharawneh&show_icons=true&locale=en&layout=compact" alt="nouranalsharawneh" /></p>
+<p>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nouranalsharawneh&show_icons=true&locale=en&layout=compact" alt="nouranalsharawneh" /></p>
 
