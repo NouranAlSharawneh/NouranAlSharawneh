@@ -9,7 +9,7 @@ I'm Nouran AlSharawneh, a Software Engineer graduate from Prince Mohammed Bin Fa
 With a strong foundation in languages like Java, Python, and JavaScript, as well as Power Apps, Power Automate, and Power BI, I’m always eager to take on challenging projects and expand my skill set. If you'd like to connect or collaborate, feel free to reach out.
 </p>
 
-- 🎓 Gradute with honors from PMU
+- 🎓 Graduate with honors from PMU
 
 - 💬 Ask me about **MERN**
 
@@ -53,8 +53,8 @@ With a strong foundation in languages like Java, Python, and JavaScript, as well
   <div>
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=NouranAlSharawneh&theme=tokyonight-duo&hide_border=true alt="GitHub Streak" style="margin-top: 20px;"/>
-    </a>
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nouranalsharawneh&show_icons=true&locale=en&layout=compact" alt="nouranalsharawneh" />
+    </a>   
   </div>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nouranalsharawneh&show_icons=true&locale=en&layout=compact" alt="nouranalsharawneh" />
 
 
