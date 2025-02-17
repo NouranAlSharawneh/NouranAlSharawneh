@@ -1,16 +1,27 @@
 <p align=”center”>
 
-<img width="1834" alt="README_Banner" src="https://github.com/NouranAlSharawneh/NouranAlSharawneh/assets/93155186/d8e506b2-b929-4ed2-a28a-0e69e739e23e">
+<img width="1834" alt="README_Banner" src="https://github.com/user-attachments/assets/e1a8dc27-d516-41f6-a4fa-3cab3d49b8d4" />
 
+# Hello there! 👋
+
+I'm Nouran AlSharawneh, a Software Engineer graduate from Prince Mohammed Bin Fahd University with a passion for creating innovative and efficient solutions. I enjoy exploring new programming languages, frameworks, and tools, constantly pushing myself to grow in the ever-evolving tech world. 
+
+With a strong foundation in languages like Java, Python, and JavaScript, as well as Power Apps, Power Automate, and Power BI, I’m always eager to take on challenging projects and expand my skill set. If you'd like to connect or collaborate, feel free to reach out.
 </p>
-<h1 align="center">Hi 👋, I'm Nouran Al Sharanwneh</h1>
-<h3 align="center">A Passionate Software Engineer Eager to Innovate and Solve Complex Challenges</h3>
+
+- 🎓 Gradute with honors from PMU
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **nouran-al-sharawneh@hotmail.com**
 
+- 💻 Visit my <a href="https://nouranalsharawneh.vercel.app/">Portfolio</a> for more details about me
+
 - ⚡ Fun fact **I can draw well ></**
+
+
+> [!NOTE]  
+> Feel free to reach out if you'd like to collaborate or have a project you'd like me to work on.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
