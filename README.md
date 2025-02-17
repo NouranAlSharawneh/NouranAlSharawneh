@@ -50,6 +50,6 @@ With a strong foundation in languages like Java, Python, and JavaScript, as well
 
 
 <p>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=NouranAlSharawneh)](https://git.io/streak-stats)
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nouranalsharawneh&show_icons=true&locale=en&layout=compact" alt="nouranalsharawneh" /></p>
 
