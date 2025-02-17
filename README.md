@@ -48,10 +48,14 @@ With a strong foundation in languages like Java, Python, and JavaScript, as well
 | Design Tools    |  <img src="https://img.shields.io/badge/Blender-FF9A00?style=for-the-badge&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-E10098?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
+  <div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=NouranAlSharawneh&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
+  </div>
 
   <div>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NouranAlSharawneh&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=NouranAlSharawneh&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
   </div>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nouranalsharawneh&show_icons=true&locale=en&layout=compact" alt="nouranalsharawneh" />
 
