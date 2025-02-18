@@ -1,9 +1,6 @@
 <p align=”center”>
 
 <img width="1834" alt="README_Banner" src="https://github.com/user-attachments/assets/e1a8dc27-d516-41f6-a4fa-3cab3d49b8d4" />
-
-# Hello there! 👋
-
 I'm Nouran AlSharawneh, a Software Engineer graduate from Prince Mohammed Bin Fahd University with a passion for creating innovative and efficient solutions. I enjoy exploring new programming languages, frameworks, and tools, constantly pushing myself to grow in the ever-evolving tech world. 
 
 With a strong foundation in languages like Java, Python, and JavaScript, as well as Power Apps, Power Automate, and Power BI, I’m always eager to take on challenging projects and expand my skill set. If you'd like to connect or collaborate, feel free to reach out.
