@@ -1,19 +1,21 @@
 <p align=”center”>
 
 <img width="1834" alt="README_Banner" src="https://github.com/user-attachments/assets/e1a8dc27-d516-41f6-a4fa-3cab3d49b8d4" />
+
+# 💫 About me
+
 I'm Nouran AlSharawneh, a Software Engineer graduate from Prince Mohammed Bin Fahd University with a passion for creating innovative and efficient solutions. I enjoy exploring new programming languages, frameworks, and tools, constantly pushing myself to grow in the ever-evolving tech world. 
 
 With a strong foundation in languages like Java, Python, and JavaScript, as well as Power Apps, Power Automate, and Power BI, I’m always eager to take on challenging projects and expand my skill set. If you'd like to connect or collaborate, feel free to reach out.
 </p>
 
-- 🎓 Graduate with honors from PMU
-
-- 📫 How to reach me **nouran-al-sharawneh@hotmail.com**
+- 👩🏼‍🎓 Studied Software Engineering at Prince Mohammed Bin Fahad, Saudi Arabia
 
 - 💻 Visit my <a href="https://nouranalsharawneh.vercel.app/">Portfolio</a> for more details about me
 
-- ⚡ Fun fact **I can draw well ></**
+- 🎨 Fun fact **I can draw well ><**
 
+- 📫 How to reach me **nouran-al-sharawneh@hotmail.com**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
