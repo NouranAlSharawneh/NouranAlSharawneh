@@ -11,8 +11,6 @@ With a strong foundation in languages like Java, Python, and JavaScript, as well
 
 - 🎓 Graduate with honors from PMU
 
-- 💬 Ask me about **MERN**
-
 - 📫 How to reach me **nouran-al-sharawneh@hotmail.com**
 
 - 💻 Visit my <a href="https://nouranalsharawneh.vercel.app/">Portfolio</a> for more details about me
@@ -48,7 +46,7 @@ With a strong foundation in languages like Java, Python, and JavaScript, as well
 <a href="https://www.linkedin.com/in/nouran-alsharawneh-1b5a7824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouran alsharawneh" height="30" width="40" /></a>
 </p>
 
- <div style="display: flex; align-items: stretch; gap: 40px;">
+ <div style="display: flex; align-items: stretch; ">
     <a>
         <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=NouranAlSharawneh&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" 
              alt="GitHub Streak" 
